@@ -1,4 +1,4 @@
-# Gestionnaire de Cartes Cadeaux — Exercice
+# Gestionnaire de Cartes Cadeaux 
 
 Brève description
 - Petite application PHP pour gérer des **cartes cadeaux** en session. Interface HTML minimale pour créer, créditer, débiter, bloquer et débloquer des cartes.
